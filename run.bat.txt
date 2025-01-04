@@ -1,0 +1,2 @@
+C:\Users\kumar>cd C:\Users\kumar\eclipse-workspace\Seliniumproject
+mvn test

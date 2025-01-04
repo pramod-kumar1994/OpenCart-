@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-03T10:32:03 IST" name="Suite2" finished-at="2025-01-03T10:32:54 IST" duration-ms="50209">
+    <groups>
+      <group name="regression">
+        <method signature="TC003_DataDvnTest.verifyLoginDataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_DataDvnTest@7d8995e]" name="verifyLoginDataDriven" class="testCases.TC003_DataDvnTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2025-01-03T10:32:03 IST" name="Test" finished-at="2025-01-03T10:32:54 IST" duration-ms="50209">
+      <class name="testCases.TC003_DataDvnTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_DataDvnTest@7d8995e]" started-at="2025-01-03T10:32:03 IST" name="setup" finished-at="2025-01-03T10:32:07 IST" duration-ms="3601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginDataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_DataDvnTest@7d8995e]" started-at="2025-01-03T10:32:08 IST" name="verifyLoginDataDriven" data-provider="LoginData" finished-at="2025-01-03T10:32:10 IST" duration-ms="1652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harikumar123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hari123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginDataDriven -->
+        <test-method signature="verifyLoginDataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_DataDvnTest@7d8995e]" started-at="2025-01-03T10:32:10 IST" name="verifyLoginDataDriven" data-provider="LoginData" finished-at="2025-01-03T10:32:21 IST" duration-ms="10908" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavan@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginDataDriven -->
+        <test-method signature="verifyLoginDataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_DataDvnTest@7d8995e]" started-at="2025-01-03T10:32:21 IST" name="verifyLoginDataDriven" data-provider="LoginData" finished-at="2025-01-03T10:32:32 IST" duration-ms="11014" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginDataDriven -->
+        <test-method signature="verifyLoginDataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_DataDvnTest@7d8995e]" started-at="2025-01-03T10:32:32 IST" name="verifyLoginDataDriven" data-provider="LoginData" finished-at="2025-01-03T10:32:43 IST" duration-ms="10945" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginDataDriven -->
+        <test-method signature="verifyLoginDataDriven(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_DataDvnTest@7d8995e]" started-at="2025-01-03T10:32:43 IST" name="verifyLoginDataDriven" data-provider="LoginData" finished-at="2025-01-03T10:32:53 IST" duration-ms="10790" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginDataDriven -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_DataDvnTest@7d8995e]" started-at="2025-01-03T10:32:53 IST" name="tearDown" finished-at="2025-01-03T10:32:54 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC003_DataDvnTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite2 -->
+</testng-results>

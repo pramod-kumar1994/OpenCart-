@@ -1,0 +1,452 @@
+2024-12-30 10:40:50 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 10:40:51 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 10:40:51 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 10:40:51 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-30 10:40:51 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-30 10:41:13 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 10:41:13 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 10:41:14 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 10:41:14 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-30 10:41:14 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-30 10:45:25 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 10:45:25 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 10:45:25 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 10:45:25 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-30 10:45:25 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-30 10:45:45 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 10:45:45 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 10:45:45 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 10:45:46 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-30 10:45:46 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-30 10:50:03 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 10:50:03 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 10:50:03 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 10:50:03 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-30 10:50:03 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-30 10:50:16 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 10:50:16 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 10:50:16 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 10:50:16 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-30 10:50:17 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-30 10:53:05 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 10:53:05 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 10:53:05 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 10:53:05 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-30 10:53:05 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-30 10:53:18 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 10:53:18 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 10:53:18 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 10:53:19 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-30 10:53:19 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-30 10:53:31 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 10:53:31 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 10:53:31 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 10:53:31 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-30 10:53:31 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-30 10:59:43 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 10:59:43 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 10:59:44 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 10:59:54 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0b1bc128cece37bd0b364da1196de3c7, clickElement {id=f.3718B09266A4665645D452088C86D2BC.d.68800AC0DD75A78079F40817B34EFA7A.e.30}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57467}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57467/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0b1bc128cece37bd0b364da1196de3c7)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 0b1bc128cece37bd0b364da1196de3c7
+2024-12-30 11:01:19 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-30 11:01:19 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-30 11:01:19 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-30 11:01:30 ERROR [main] TC002_LoginTest - Unexpected error: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (a6b9ba87322ab6b3687e832594813729)] -> xpath: //a[normalize-space()='Login']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57552}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57552/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a6b9ba87322ab6b3687e832594813729
+2024-12-31 09:50:32 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 09:50:32 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 09:50:33 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 09:50:43 ERROR [main] TC002_LoginTest - Unexpected error: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (201cf3ff28199f6787d1730e66cf4264)] -> xpath: //a[normalize-space()='Login']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62303}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62303/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 201cf3ff28199f6787d1730e66cf4264
+2024-12-31 09:52:45 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 09:52:45 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 09:52:45 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 09:52:46 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-31 09:52:46 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-31 09:58:20 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 09:58:20 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 09:58:20 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 09:58:20 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-31 09:58:21 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-31 09:58:35 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 09:58:35 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 09:58:36 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 09:58:36 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-31 09:58:36 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-31 10:01:09 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:01:09 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:01:09 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:01:19 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [84649510eed26bb3ef27841d4f84e0a3, clickElement {id=f.934E8ADC3D0B08DD218C5103DCB6A47C.d.0CC517AF8FC0CB3C169729BFB8953731.e.89}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62782}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62782/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (84649510eed26bb3ef27841d4f84e0a3)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 84649510eed26bb3ef27841d4f84e0a3
+2024-12-31 10:07:02 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2024-12-31 10:07:02 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2024-12-31 10:07:02 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2024-12-31 10:07:13 ERROR [main] TC003_DataDvnTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4d25c01b9511d9a996c40eb83c944581, clickElement {id=f.905F23B2746ABC2080E18A724EE15C71.d.B4A6E01C8FA3CB3C64CBF55F5617C3CB.e.82}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63010/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4d25c01b9511d9a996c40eb83c944581)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 4d25c01b9511d9a996c40eb83c944581
+2024-12-31 10:07:13 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2024-12-31 10:07:13 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2024-12-31 10:07:13 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2024-12-31 10:07:23 ERROR [main] TC003_DataDvnTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4d25c01b9511d9a996c40eb83c944581, clickElement {id=f.905F23B2746ABC2080E18A724EE15C71.d.2DDFFB6D2A41B71B03C095A608C7B539.e.99}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63010/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4d25c01b9511d9a996c40eb83c944581)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 4d25c01b9511d9a996c40eb83c944581
+2024-12-31 10:07:23 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2024-12-31 10:07:23 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2024-12-31 10:07:23 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2024-12-31 10:07:34 ERROR [main] TC003_DataDvnTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4d25c01b9511d9a996c40eb83c944581, clickElement {id=f.905F23B2746ABC2080E18A724EE15C71.d.FAAC50A28374A4A0F90E40DEFF43A28D.e.117}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63010/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4d25c01b9511d9a996c40eb83c944581)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 4d25c01b9511d9a996c40eb83c944581
+2024-12-31 10:07:34 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2024-12-31 10:07:34 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2024-12-31 10:07:34 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2024-12-31 10:07:45 ERROR [main] TC003_DataDvnTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4d25c01b9511d9a996c40eb83c944581, clickElement {id=f.905F23B2746ABC2080E18A724EE15C71.d.01840DE40D2B77869641D34C1540C704.e.134}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63010/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4d25c01b9511d9a996c40eb83c944581)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 4d25c01b9511d9a996c40eb83c944581
+2024-12-31 10:07:45 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2024-12-31 10:07:45 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2024-12-31 10:07:45 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2024-12-31 10:07:57 ERROR [main] TC003_DataDvnTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4d25c01b9511d9a996c40eb83c944581, clickElement {id=f.905F23B2746ABC2080E18A724EE15C71.d.A16125372BCAB0BF12D7FF5DF77BCB0D.e.151}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63010}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63010/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4d25c01b9511d9a996c40eb83c944581)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 4d25c01b9511d9a996c40eb83c944581
+2024-12-31 10:11:06 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:11:06 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:11:07 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:11:17 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b45a74701f52ef0eed12d576f34658de, clickElement {id=f.0C6D9FCC0A362E4199F4F68518F85058.d.BCDDACB7D2AE507D17AE167EC34A3C2B.e.78}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63233}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63233/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b45a74701f52ef0eed12d576f34658de)] -> xpath: //a[normalize-space()='Login']]
+Session ID: b45a74701f52ef0eed12d576f34658de
+2024-12-31 10:19:00 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:19:00 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:19:01 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:19:11 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [06170e15a175f8855a9971c9f37371b8, clickElement {id=f.5195CEFA9CFCA4D192AEFBE7464D0B72.d.50C075233A180479C76269A04A342B40.e.79}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63602}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63602/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (06170e15a175f8855a9971c9f37371b8)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 06170e15a175f8855a9971c9f37371b8
+2024-12-31 10:19:25 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:19:25 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:19:25 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:19:36 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [239a316c2155f0130938590544fa4790, clickElement {id=f.9CC1E8BD9FDF7A99469747A2F3F36013.d.AB7605B425680CA80C9881589C4EB1B0.e.79}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63639}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63639/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (239a316c2155f0130938590544fa4790)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 239a316c2155f0130938590544fa4790
+2024-12-31 10:21:55 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:21:55 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:21:55 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:22:06 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [703dc5a738c773da63592408dee4fa74, clickElement {id=f.479879F09C26574BFEFA846D1E065C9D.d.19D3A415DF76ADD46C3053F2FC1D5F18.e.79}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63780}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63780/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (703dc5a738c773da63592408dee4fa74)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 703dc5a738c773da63592408dee4fa74
+2024-12-31 10:26:18 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:26:18 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:26:19 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:26:29 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74b46c3b64f8b0579607a15b2fb2cd30, clickElement {id=f.01F2AE38634A4590ADCFDB648D9D4D52.d.F971D33788C9C64BED5CF702F02AB0E3.e.81}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63937}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63937/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (74b46c3b64f8b0579607a15b2fb2cd30)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 74b46c3b64f8b0579607a15b2fb2cd30
+2024-12-31 10:27:16 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:27:16 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:27:16 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:27:27 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d421c4498b22b7885a8e0b65c08974a, clickElement {id=f.F2D2A06AC3ABB152B1380A991CEC94FC.d.BC3D336E5D14D43A6C369B52C6F71F2B.e.89}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63985}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63985/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9d421c4498b22b7885a8e0b65c08974a)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 9d421c4498b22b7885a8e0b65c08974a
+2024-12-31 10:42:31 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:42:31 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:42:31 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:42:42 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [46c7ff5025574714e03d8714f8ba83a2, clickElement {id=f.E94BF192D8C95A9A7B606848D5C42896.d.383601A216168274A2FEA610F291253F.e.87}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64339}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64339/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (46c7ff5025574714e03d8714f8ba83a2)] -> xpath: //a[normalize-space()='Login']]
+Session ID: 46c7ff5025574714e03d8714f8ba83a2
+2024-12-31 10:44:33 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:44:33 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:44:33 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:44:44 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ce2ff182d7ee356c6ca6394caf241194, clickElement {id=f.5FD94562985FCDF7676633A0A258FA20.d.B9809730142DDD55E99A876718D4ABDE.e.80}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64438}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64438/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ce2ff182d7ee356c6ca6394caf241194)] -> xpath: //a[normalize-space()='Login']]
+Session ID: ce2ff182d7ee356c6ca6394caf241194
+2024-12-31 10:45:30 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:45:30 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:45:30 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:45:41 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ef14a14a5397dddd2eadadd626797af4, clickElement {id=f.7BD382844A3890735577CE5D4B68DC71.d.057FA4EFEDA0DBE0E8F65ACF1FD7B8CC.e.81}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64491}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64491/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ef14a14a5397dddd2eadadd626797af4)] -> xpath: //a[normalize-space()='Login']]
+Session ID: ef14a14a5397dddd2eadadd626797af4
+2024-12-31 10:47:41 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:47:41 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:47:41 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:47:51 ERROR [main] TC002_LoginTest - Unexpected error: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ede35cfdd14d7a36145626ee749c99cd, clickElement {id=f.E57FE290C1987132E2C8D08CEEA62237.d.56C5CA20BD48BE531FD2FC63F613589C.e.46}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64586}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64586/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ede35cfdd14d7a36145626ee749c99cd)] -> xpath: //a[normalize-space()='Login']]
+Session ID: ede35cfdd14d7a36145626ee749c99cd
+2024-12-31 10:49:24 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:49:25 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:49:25 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:49:25 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-31 10:49:35 ERROR [main] TC002_LoginTest - Unexpected error: no such element: Unable to locate element: {"method":"xpath","selector":"input[placeholder='E-Mail Address']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1089bac7e66c99c738bbbb0d4ae336dd, findElement {using=xpath, value=input[placeholder='E-Mail Address']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\kumar\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64659}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64659/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1089bac7e66c99c738bbbb0d4ae336dd
+2024-12-31 10:52:59 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:52:59 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:52:59 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:52:59 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-31 10:52:59 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2024-12-31 10:53:14 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2024-12-31 10:53:14 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2024-12-31 10:53:14 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2024-12-31 10:53:14 INFO  [main] TC002_LoginTest - Entering email address
+2024-12-31 10:53:14 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2025-01-03 08:43:34 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2025-01-03 08:43:34 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2025-01-03 08:43:34 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2025-01-03 08:43:34 INFO  [main] TC002_LoginTest - Entering email address
+2025-01-03 08:43:34 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2025-01-03 08:43:50 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2025-01-03 08:43:50 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2025-01-03 08:43:50 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2025-01-03 08:43:50 INFO  [main] TC002_LoginTest - Entering email address
+2025-01-03 08:43:50 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2025-01-03 08:44:13 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 08:44:13 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 08:44:13 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 08:44:14 INFO  [main] TC003_DataDvnTest - Entering email address: harikumar123@gmail.com
+2025-01-03 08:44:14 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 08:44:14 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 08:44:15 INFO  [main] TC003_DataDvnTest - Login successful for valid credentials
+2025-01-03 08:44:15 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 08:44:15 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 08:44:15 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 08:44:15 INFO  [main] TC003_DataDvnTest - Entering email address: pavan@gmail.com
+2025-01-03 08:44:16 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 08:44:16 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 08:44:26 INFO  [main] TC003_DataDvnTest - Login failed as expected for invalid credentials
+2025-01-03 08:44:26 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 08:44:26 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 08:44:26 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 08:44:26 INFO  [main] TC003_DataDvnTest - Entering email address: kumar@gmail.com
+2025-01-03 08:44:27 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 08:44:27 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 08:44:37 INFO  [main] TC003_DataDvnTest - Login failed as expected for invalid credentials
+2025-01-03 08:44:37 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 08:44:37 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 08:44:37 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 08:44:37 INFO  [main] TC003_DataDvnTest - Entering email address: 
+2025-01-03 08:44:38 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 08:44:38 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 08:44:48 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 08:44:48 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 08:44:48 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 08:44:48 INFO  [main] TC003_DataDvnTest - Entering email address: 
+2025-01-03 08:44:49 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 08:44:49 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 09:45:36 INFO  [main] TC002_LoginTest - Starting test: verifyLogin
+2025-01-03 09:45:36 INFO  [main] TC002_LoginTest - Clicking on 'My Account' link
+2025-01-03 09:45:36 INFO  [main] TC002_LoginTest - Clicking on 'Login' link
+2025-01-03 09:45:37 INFO  [main] TC002_LoginTest - Entering email address
+2025-01-03 09:45:37 ERROR [main] TC002_LoginTest - Unexpected error: Keys to send should be a not null CharSequence
+2025-01-03 09:46:33 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 09:46:33 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 09:46:33 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 09:46:33 INFO  [main] TC003_DataDvnTest - Entering email address: harikumar123@gmail.com
+2025-01-03 09:46:33 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 09:46:33 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 09:46:34 INFO  [main] TC003_DataDvnTest - Login successful for valid credentials
+2025-01-03 09:46:34 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 09:46:34 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 09:46:34 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 09:46:35 INFO  [main] TC003_DataDvnTest - Entering email address: pavan@gmail.com
+2025-01-03 09:46:35 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 09:46:35 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 09:46:45 INFO  [main] TC003_DataDvnTest - Login failed as expected for invalid credentials
+2025-01-03 09:46:45 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 09:46:45 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 09:46:45 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 09:46:46 INFO  [main] TC003_DataDvnTest - Entering email address: kumar@gmail.com
+2025-01-03 09:46:46 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 09:46:46 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 09:46:56 INFO  [main] TC003_DataDvnTest - Login failed as expected for invalid credentials
+2025-01-03 09:46:56 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 09:46:56 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 09:46:57 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 09:46:57 INFO  [main] TC003_DataDvnTest - Entering email address: 
+2025-01-03 09:46:57 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 09:46:57 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 09:47:08 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 09:47:08 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 09:47:08 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 09:47:08 INFO  [main] TC003_DataDvnTest - Entering email address: 
+2025-01-03 09:47:08 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 09:47:08 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 10:18:10 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 10:18:10 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 10:18:10 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 10:18:11 INFO  [main] TC003_DataDvnTest - Entering email address: harikumar123@gmail.com
+2025-01-03 10:18:11 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 10:18:11 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 10:18:11 INFO  [main] TC003_DataDvnTest - Login successful for valid credentials
+2025-01-03 10:18:12 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 10:18:12 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 10:18:12 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 10:18:12 INFO  [main] TC003_DataDvnTest - Entering email address: pavan@gmail.com
+2025-01-03 10:18:12 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 10:18:12 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 10:18:23 INFO  [main] TC003_DataDvnTest - Login failed as expected for invalid credentials
+2025-01-03 10:18:23 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 10:18:23 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 10:18:23 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 10:18:23 INFO  [main] TC003_DataDvnTest - Entering email address: kumar@gmail.com
+2025-01-03 10:18:23 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 10:18:23 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 10:18:34 INFO  [main] TC003_DataDvnTest - Login failed as expected for invalid credentials
+2025-01-03 10:18:34 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 10:18:34 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 10:18:34 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 10:18:34 INFO  [main] TC003_DataDvnTest - Entering email address: 
+2025-01-03 10:18:34 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 10:18:34 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 10:18:45 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 10:18:45 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 10:18:45 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 10:18:45 INFO  [main] TC003_DataDvnTest - Entering email address: 
+2025-01-03 10:18:45 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 10:18:45 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 10:32:08 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 10:32:08 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 10:32:08 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 10:32:08 INFO  [main] TC003_DataDvnTest - Entering email address: harikumar123@gmail.com
+2025-01-03 10:32:09 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 10:32:09 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 10:32:09 INFO  [main] TC003_DataDvnTest - Login successful for valid credentials
+2025-01-03 10:32:10 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 10:32:10 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 10:32:10 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 10:32:10 INFO  [main] TC003_DataDvnTest - Entering email address: pavan@gmail.com
+2025-01-03 10:32:10 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 10:32:10 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 10:32:21 INFO  [main] TC003_DataDvnTest - Login failed as expected for invalid credentials
+2025-01-03 10:32:21 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 10:32:21 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 10:32:21 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 10:32:21 INFO  [main] TC003_DataDvnTest - Entering email address: kumar@gmail.com
+2025-01-03 10:32:21 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 10:32:21 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 10:32:32 INFO  [main] TC003_DataDvnTest - Login failed as expected for invalid credentials
+2025-01-03 10:32:32 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 10:32:32 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 10:32:32 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 10:32:32 INFO  [main] TC003_DataDvnTest - Entering email address: 
+2025-01-03 10:32:32 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 10:32:32 INFO  [main] TC003_DataDvnTest - Clicking on Login button
+2025-01-03 10:32:43 INFO  [main] TC003_DataDvnTest - Starting data-driven login test for email: 
+2025-01-03 10:32:43 INFO  [main] TC003_DataDvnTest - Clicking on My Account link
+2025-01-03 10:32:43 INFO  [main] TC003_DataDvnTest - Clicking on Login link
+2025-01-03 10:32:43 INFO  [main] TC003_DataDvnTest - Entering email address: 
+2025-01-03 10:32:43 INFO  [main] TC003_DataDvnTest - Entering password
+2025-01-03 10:32:43 INFO  [main] TC003_DataDvnTest - Clicking on Login button
